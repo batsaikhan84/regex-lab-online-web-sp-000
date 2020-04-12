@@ -17,7 +17,3 @@ end
 def valid_phone_number?(phone)
 
 end
-
-
-
- # (word.scan(/\b[bcdfghjklmnpqrstvwxyz]/i))
